@@ -9,3 +9,4 @@ X = int(input('Enter the input number(0 and 1 only): '))
 if X >= 0 or X <= 1:
     Y = 1 - X
     print('the inverse of X is ',Y)    
+        
